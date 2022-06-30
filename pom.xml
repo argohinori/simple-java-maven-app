@@ -4,7 +4,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
-  <version>0.3.2</version>
+  <version>0.3.3</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   
@@ -21,7 +21,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+      <url>https://maven.pkg.github.com/argohinori/simple-java-maven-app</url>
     </repository>
   </distributionManagement>
   
@@ -77,5 +77,6 @@
       </plugin>
     </plugins>
   </build>
+  
   
 </project>
